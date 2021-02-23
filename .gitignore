@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Vivek.BookStore/.vs/Vivek.BookStore
+/Vivek.BookStore/bin/Debug/netcoreapp3.1
+/Vivek.BookStore/obj
